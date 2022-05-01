@@ -1,4 +1,4 @@
-customhost = "ip-172-31-39-14.ap-south-1.compute.internal"
+customhost = "employee.cjy3t7nhdh6e.ap-south-1.rds.amazonaws.com"
 customuser = "intellipaat"
 custompass = "intellipaat"
 customdb = "employee"
